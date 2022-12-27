@@ -1,3 +1,3 @@
-const medusaUrl = __MEDUSA_BACKEND_URL__ || "https://medu.up.railway.app"
+const medusaUrl = __MEDUSA_BACKEND_URL__ || ""
 
 export { medusaUrl }
